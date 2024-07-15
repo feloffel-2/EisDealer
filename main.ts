@@ -15,6 +15,8 @@ namespace EisDealer {
         }
         addCustomer();
 
+
+       
         // Hintergrundmusik laden und abspielen
         const backgroundMusic = new Audio('sounds/background.mp3'); // Pfad zur Hintergrundmusikdatei anpassen
         backgroundMusic.loop = true; // Musik in Schleife abspielen
